@@ -3,13 +3,13 @@ import { createCommande } from '../lib/supabase';
 
 // ─── Couleurs Joker ───────────────────────────────────────
 const C = {
-  primary:    '#1A3A2A',
-  primaryMid: '#2D5E42',
-  gold:       '#B8943F',
-  goldLight:  '#D4AF6A',
-  beige:      '#F5EDD8',
-  cream:      '#FBF8F0',
-  dark:       '#1A1A14',
+  primary:    '#1A1A2E',
+  primaryMid: '#16213E',
+  gold:       '#E94560',
+  goldLight:  '#FF6B81',
+  beige:      '#F0F0FF',
+  cream:      '#F8F8FF',
+  dark:       '#0A0A18',
   darkSoft:   'rgba(0,0,0,0.52)',
   border:     'rgba(233,69,96,0.20)',
   danger:     '#C0392B',
